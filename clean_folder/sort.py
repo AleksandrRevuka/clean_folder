@@ -4,7 +4,6 @@ import sys
 import shutil
 
 from typing import NamedTuple, List, Dict, Tuple
-# from prettytable import PrettyTable
 
 
 PUNCTUATION = "#$%&'()*+,-/:;<=>?@[\\]^_`{|}~"  # without "."
