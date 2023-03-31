@@ -2,12 +2,12 @@
 from setuptools import setup, find_namespace_packages
 
 setup(
-    name='clean folder insight',
-    version='0.0.1',
+    name='clean_insight_my_folder',
+    version='0.0.2',
     description='Script, which sort the folder',
     author='Alex',
     author_email='Asmo@hotmail.com',
-    url='https://github.com/AleksandrRevuka/clean_folder.git',
+    url='https://github.com/AleksandrRevuka/clean_folder_Insighr.git',
     license='MIT',
 # classifiers = [
 #     "Programming Language :: Python :: 3",
@@ -16,5 +16,5 @@ setup(
     packages=find_namespace_packages(),
     # data_files=[('clean_folder', [''])],
     include_package_data=True,
-    entry_points={'console_scripts': ['clean-folder=clean_folder.sort:main']}
+    entry_points={'console_scripts': ['clean-folder=clean_insight_my_folder.sort:main']}
 )
