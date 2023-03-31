@@ -7,7 +7,7 @@ setup(
     description='Script, which sort the folder',
     author='Alex',
     author_email='Asmo@hotmail.com',
-    url='https://github.com/AleksandrRevuka/go_it.git',
+    url='https://github.com/AleksandrRevuka/clean_folder.git',
     license='MIT',
     classifiers=[
         "Programming Language :: Paython :: 3",
