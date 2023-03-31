@@ -1,2 +1,0 @@
-[console_scripts]
-clean-folder = clean_insight_my_folder.sort:main

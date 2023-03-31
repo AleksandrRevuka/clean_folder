@@ -1,3 +1,0 @@
-clean_insight_my_folder
-dist
-venv

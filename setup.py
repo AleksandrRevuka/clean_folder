@@ -2,7 +2,7 @@
 from setuptools import setup, find_namespace_packages
 
 setup(
-    name='clean_insight_my_folder',
+    name='cleaning_up_my_folder',
     version='0.0.2',
     description='Script, which sort the folder',
     author='Alex',
@@ -16,5 +16,5 @@ setup(
     packages=find_namespace_packages(),
     # data_files=[('clean_folder', [''])],
     include_package_data=True,
-    entry_points={'console_scripts': ['clean-folder=clean_insight_my_folder.sort:main']}
+    entry_points={'console_scripts': ['clean-folder=cleaning_up_my_folder.sort:main']}
 )
